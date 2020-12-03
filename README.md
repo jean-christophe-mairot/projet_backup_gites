@@ -25,6 +25,8 @@
 - https://codepen.io/
 - https://www.php.net/manual/fr/intro-whatis.php
 - https://htmlcolorcodes.com/fr/tableau-de-couleur/tableau-de-couleur-du-web/
+- https://www.toutimages.com/codes_caracteres.htm
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Références Web :(ref pour notre site www.booking.com)
 
@@ -43,8 +45,8 @@
 
 ## Description du projet :
 
-- [ ] réaliser une plateforme de réservation de gîtes se situant dans une zone géographique précise (au choix).
-- [ ] choisir une région : pour les gîtes
+- [x] réaliser une plateforme de réservation de gîtes se situant dans une zone géographique précise (LA FRANCE).
+- [ ] choisir des ref : pour les gîtes
 - [x] chercher au moin trois sites reference
 
 ## ADMIN
@@ -190,6 +192,8 @@ Concevoir un MCD
 Concevoir un MLD
 Concevoir le modèle physique
 Concevoir le diagramme de la classe "hébergement" ensemble
+
+exe
 
 ## En plus
 
