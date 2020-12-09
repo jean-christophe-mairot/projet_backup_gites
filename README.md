@@ -27,6 +27,7 @@
 - https://htmlcolorcodes.com/fr/tableau-de-couleur/tableau-de-couleur-du-web/
 - https://www.toutimages.com/codes_caracteres.htm
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://www.youtube.com/watch?v=jaQGNDqXHxc&ab_channel=Grafikart.fr
 
 ## Références Web :(ref pour notre site www.booking.com)
 
@@ -42,16 +43,18 @@
 - https://www.grafikart.fr/formations/programmation-objet-php
 - https://vos-formations.com/apprenant/
 - https://sql.sh/
+- https://www.youtube.com/watch?v=weE2adYHPG0&ab_channel=Grafikart.fr
 
 ## Description du projet :
 
 - [x] réaliser une plateforme de réservation de gîtes se situant dans une zone géographique précise (LA FRANCE).
-- [ ] choisir des ref : pour les gîtes
+- [x] choisir des ref : pour les gîtes
 - [x] chercher au moin trois sites reference
 
 ## ADMIN
 
 - [ ] La plateforme est gérée par un seul administrateur qui pourra s'occuper d'ajouter, modifier ou supprimer des gîtes.
+- [ ] formulaire update / delete reservation
 - [ ] Connexion / Deconnexion (Admin)
 - [ ] CRUD
 - [ ] Poo Class Create
@@ -78,12 +81,12 @@
 
 **Liste des Gîtes** (annuaire en page accueil : étiquettes)
 
-- [ ] Photo ratio carre
-- [ ] Un titre (Intitulé de l’hébergement)
+- [x] Photo ratio carre
+- [x] Un titre (Intitulé de l’hébergement)
 - [ ] Emplacement géographique
-- [ ] Nombre de couchages
-- [ ] Un prix
-- [ ] Un lien vers (la fiche produit) page votre sélection
+- [x] Nombre de couchages
+- [x] Un prix
+- [x] Un lien vers (la fiche produit) page votre sélection
 
 **Fiches des Gîtes** (une fiche détaillé des gîtes)
 
@@ -159,6 +162,7 @@ _textes,maquette,image non modifier_
 - Fichier _fiche_gite_admin.php(fiche de gite avec un bouton modifier et un bouton supprimer)_
 - Fichier _form_creategite.php_
 - Fichier _form_updategite.php_
+- Fichier _fiche_reservation.php_
 
 **CONTENU**
 
